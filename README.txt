@@ -8,3 +8,5 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230524
 #5 main.html 초안 완성
+#6 main.html 태그 a -> button 으로 수정, post.html 작성중
+#7 누락된 README.txt 추가
