@@ -14,3 +14,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 #7 누락된 README.txt 추가
 #8 post.html 초안 완성, 추후 이미지란 마무리하기.
 #9 detail.html 초안 완성
+
+230526
+#10 detail.html div class 추가, main.css 조금
