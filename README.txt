@@ -17,3 +17,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230526
 #10 detail.html div class 추가, main.css 조금
+
+230527
+#11 main.html 계층 정리, main.css 작업

@@ -1,8 +1,47 @@
 * {
-	box-sizing: border-box;
-	margin: 0;
+	font-family: 'Roboto';
 }
 
 body {
-	font-family: 'Noto Sans KR', sans-serif;
+	background-color: #fff;
+	width: 360px;
+	height: 750px;
+}
+
+h1 {
+	top: 24px;
+	right: 20px;
+	width: 124px;
+	height: 35px;
+	font-weight: 400;
+	font-size: 24px;
+}
+
+ol {
+	top: 70px;
+	width: 328px;
+	height: 67px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+.postButton {
+	width: 328px;
+	height: 67px;
+	background-color: #bb2649;
+	padding-top: 22px;
+	padding-bottom: 22px;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	color: #fff;
+}
+
+.normalButton {
+	width: 328px;
+	height: 76px;
+	margin: 32px 16px 24px 16px;
+	border-radius: 12px;
+	border-color: #e2e2e2;
+	background-color: #fff;
 }
