@@ -1,1 +1,9 @@
-.
+* {
+	font-family: 'Roboto';
+}
+
+body {
+	background-color: #fff;
+	width: 360px;
+	height: 750px;
+}

@@ -20,3 +20,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230527
 #11 main.html 계층 정리, main.css 작업
+
+230528
+#12 post.css / detail.css 작업
