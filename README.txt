@@ -26,3 +26,4 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230529
 #13 main.html / post.html / detail.html 태그 수정
+#14 post.html / detail.html 태그 수정
