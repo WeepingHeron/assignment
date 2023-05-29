@@ -23,3 +23,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230528
 #12 post.css / detail.css 작업
+
+230529
+#13 main.html / post.html / detail.html 태그 수정
