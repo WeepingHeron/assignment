@@ -13,16 +13,18 @@
 
 		<div>이미지란</div>
 
-		<span>
-			<em>제목</em>
-			<input type="text" placeholder="글 제목을 입력해주세요." />
-		</span>
+		<form action="" method="post">
+			<label for="title">
+				<em>제목</em>
+			</label>
+			<input type="text" placeholder="글 제목을 입력해주세요." id="title" value="title" />
 
-		<span>
-			<em>내용</em>
-			<input type="text" placeholder="글 내용을 입력해주세요." />
-		</span>
+			<label for="content">
+				<em>내용</em>
+			</label>
+			<textarea type="text" placeholder="글 내용을 입력해주세요." id="content" value="content" />
 
-		<button type="submit">등록하기</button>
+			<button type="submit">등록하기</button>
+		</form>
 	</body>
 </html>
