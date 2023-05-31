@@ -30,3 +30,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230530
 #15 post.html / detail.html 태그 수정
+
+230601
+#16 main.html / post.html / detail.html meta태그 추가
