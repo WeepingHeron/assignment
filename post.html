@@ -10,7 +10,7 @@
 		<link rel="stylesheet" href="post.css" />
 	</head>
 	<body>
-		<a href="main.html">&lt;</a>
+		<a href="main.html" aria-label="Go to main page">&lt;</a>
 
 		<h1>HPNY 2023</h1>
 
@@ -20,14 +20,14 @@
 			<label for="title">
 				<em>제목</em>
 			</label>
-			<input type="text" placeholder="글 제목을 입력해주세요." id="title" value="title" />
+			<input type="text" placeholder="글 제목을 입력해주세요." id="title" value="title" aria-label="Write title here" />
 
 			<label for="content">
 				<em>내용</em>
 			</label>
-			<textarea type="text" placeholder="글 내용을 입력해주세요." id="content" value="content" />
+			<textarea type="text" placeholder="글 내용을 입력해주세요." id="content" value="content" aria-label="Write content here" />
 
-			<button type="submit">등록하기</button>
+			<button type="submit" aria-label="Submit your post">등록하기</button>
 		</form>
 	</body>
 </html>
