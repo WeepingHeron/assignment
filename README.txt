@@ -34,3 +34,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 230601
 #16 main.html / post.html / detail.html meta태그 추가, title 변경
 #17 main.html / post.html / detail.html aria-label 추가, 태그 수정
+
+230606
+#18 main.html / post.html / detail.html header태그 추가
