@@ -1,9 +1,30 @@
 * {
 	font-family: 'Roboto';
+	box-sizing: border-box;
 }
 
 body {
 	background-color: #fff;
 	width: 360px;
 	height: 750px;
+}
+
+header {
+	display: inline-block;
+}
+
+.comment {
+	display: inline;
+}
+
+.submitButton {
+	display: inline-block;
+}
+
+.deleteButton {
+	display: inline-block;
+}
+
+.commentArea {
+	display: inline-block;
 }

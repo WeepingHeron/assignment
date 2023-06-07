@@ -1,11 +1,16 @@
 * {
 	font-family: 'Roboto';
+	box-sizing: border-box;
 }
 
 body {
 	background-color: #fff;
 	width: 360px;
 	height: 750px;
+}
+
+header {
+	display: inline-block;
 }
 
 h1 {
@@ -26,6 +31,7 @@ ol {
 }
 
 .postButton {
+	display: block;
 	width: 328px;
 	height: 67px;
 	background-color: #bb2649;
@@ -38,6 +44,7 @@ ol {
 }
 
 .normalButton {
+	display: block;
 	width: 328px;
 	height: 76px;
 	margin: 32px 16px 24px 16px;

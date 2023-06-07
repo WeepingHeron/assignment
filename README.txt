@@ -38,3 +38,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 230606
 #18 main.html / post.html / detail.html header태그 추가
 #19 detail.html main태그 추가
+
+230607
+#20 main.css / post.html / post.css / detail.html / detail.css 작업
