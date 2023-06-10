@@ -44,3 +44,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230609
 #21 detail.html / detail.css 작업
+
+230610
+#22 detail.html / detail.css 작업

@@ -13,6 +13,15 @@ header {
 	display: inline-block;
 }
 
+.imgae {
+	width: 360px;
+	height: 265px;
+}
+
+.post {
+	overflow: hidden;
+}
+
 .updateButton {
 	float: right;
 }
@@ -23,6 +32,10 @@ header {
 
 .comment {
 	display: inline;
+}
+
+.comment p {
+	display: inline-block;
 }
 
 .submitButton {
