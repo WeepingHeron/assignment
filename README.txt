@@ -47,3 +47,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230610
 #22 detail.html / detail.css 작업
+
+230611
+#23 icon.svg 추가 / main.css / post.html / post.css 작업

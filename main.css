@@ -41,6 +41,12 @@ ol {
 	font-weight: 700;
 	font-size: 20px;
 	color: #fff;
+	border-radius: 12px;
+	text-align: center;
+}
+
+.postButton::before {
+	content: url(/icon.svg);
 }
 
 .normalButton {
@@ -51,4 +57,5 @@ ol {
 	border-radius: 12px;
 	border-color: #e2e2e2;
 	background-color: #fff;
+	border-radius: 12px;
 }
