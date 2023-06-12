@@ -13,6 +13,11 @@ header {
 	display: inline-block;
 }
 
+.backButton {
+	width: 55px;
+	height: 55px;
+}
+
 .imgae {
 	width: 360px;
 	height: 265px;
@@ -24,10 +29,14 @@ header {
 
 .updateButton {
 	float: right;
+	width: 40px;
+	height: 40px;
 }
 
 .deleteButton {
 	float: right;
+	width: 40px;
+	height: 40px;
 }
 
 .comment {
@@ -40,12 +49,19 @@ header {
 
 .submitButton {
 	display: inline-block;
+	width: 36px;
+	height: 36px;
 }
 
 .deleteCommentButton {
 	display: inline-block;
+	width: 18px;
+	height: 18px;
+	border-radius: 50%;
 }
 
 .commentArea {
 	display: inline-block;
+	width: 287px;
+	height: 36px;
 }

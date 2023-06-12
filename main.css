@@ -46,7 +46,7 @@ ol {
 }
 
 .postButton::before {
-	content: url(/icon.svg);
+	content: url(/assets/postButton.svg);
 }
 
 .normalButton {

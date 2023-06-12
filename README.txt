@@ -50,3 +50,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230611
 #23 icon.svg 추가 / main.css / post.html / post.css 작업
+
+230612
+#24 assets 폴더 추가 / main.css / post.html / detail.html / detail.css 작업
