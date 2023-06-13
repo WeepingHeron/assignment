@@ -53,3 +53,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230612
 #24 assets 폴더 추가 / main.css / post.html / detail.html / detail.css 작업
+
+230613
+#25 전체 파일 css 작업

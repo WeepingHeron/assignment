@@ -1,6 +1,9 @@
 * {
 	font-family: 'Roboto';
 	box-sizing: border-box;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
 }
 
 body {
@@ -11,11 +14,15 @@ body {
 
 header {
 	display: inline-block;
+	width: 360px;
+	height: 83px;
+	position: relative;
 }
 
-.return {
+.backButton {
 	width: 55px;
 	height: 55px;
+	display: inline-block;
 }
 
 h1 {
@@ -25,22 +32,18 @@ h1 {
 	height: 35px;
 	font-weight: 400;
 	font-size: 24px;
-}
-
-em {
-	display: block;
-}
-
-input {
-	display: block;
-}
-
-textarea {
-	display: block;
+	position: absolute;
+	margin: 0 auto;
+	padding: 0;
 }
 
 .imageArea {
 	display: block;
+	position: absolute;
+	width: 328px;
+	height: 96px;
+	border: 1px solid #e2e2e2;
+	border-radius: 12px;
 }
 
 .submitButton {
@@ -56,4 +59,9 @@ textarea {
 	color: #fff;
 	border-radius: 12px;
 	text-align: center;
+}
+
+.writeHere {
+	display: block;
+	position: absolute;
 }
