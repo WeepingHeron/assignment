@@ -33,7 +33,6 @@ h1 {
 	font-weight: 400;
 	font-size: 24px;
 	position: absolute;
-	margin: 0 auto;
 	padding: 0;
 }
 
@@ -59,9 +58,50 @@ h1 {
 	color: #fff;
 	border-radius: 12px;
 	text-align: center;
+	border: none;
 }
 
 .writeHere {
-	display: block;
+	display: inline-block;
 	position: absolute;
+}
+
+.word-title {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	position: absolute;
+	display: block;
+}
+
+.word-content {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	position: absolute;
+	display: block;
+}
+
+.titleArea {
+	width: 307px;
+	height: 30px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 23px;
+	color: #cbc9c9;
+	display: block;
+}
+
+.contentArea {
+	width: 307px;
+	height: 225px;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #cbc9c9;
+	display: block;
 }

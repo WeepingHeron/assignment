@@ -56,3 +56,6 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230613
 #25 전체 파일 css 작업
+
+230619
+#26 main.html 제외한 전체 파일 css 작업
