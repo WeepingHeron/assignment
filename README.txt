@@ -59,3 +59,4 @@ HTML, CSS, VanilaJS를 이용한 과제
 
 230619
 #26 main.html 제외한 전체 파일 css 작업
+#27 assets/imageInput.svg 추가 / 전체 파일 css 작업

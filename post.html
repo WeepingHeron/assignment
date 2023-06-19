@@ -12,19 +12,21 @@
 	<body>
 		<header>
 			<a href="main.html" aria-label="Go to main page" class="backButton">
-				<img src="/assets/backButton.svg" alt="Go to main page" />
+				<img src="./assets/backButton.svg" alt="Go to main page" />
 			</a>
 
 			<h1>HPNY 2023</h1>
 		</header>
 
-		<div class="imageArea">이미지란</div>
+		<input type="image" class="imageArea" src="./assets/imageInput.svg" />
 
 		<form action="" method="post" class="writeHere">
 			<label for="title">
 				<em class="word-title">제목</em>
 			</label>
-			<input type="text" placeholder="글 제목을 입력해주세요." id="title" value="title" aria-label="Write title here" class="titleArea" />
+			<input type="text" placeholder="글 제목을 입력해주세요." id="title" aria-label="Write title here" class="titleArea" />
+
+			<div class="line"></div>
 
 			<label for="content">
 				<em class="word-content">내용</em>

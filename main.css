@@ -13,7 +13,7 @@ body {
 }
 
 header {
-	display: inline-block;
+	display: block;
 	width: 360px;
 	height: 83px;
 	position: relative;
@@ -40,20 +40,10 @@ h2 {
 	height: 23px;
 }
 
-p {
-	margin: 45px 23px 12px 92px;
-	width: 213px;
-	height: 19px;
-}
-
 ol {
-	top: 70px;
-	width: 328px;
-	height: 67px;
 	padding: 0px;
 	list-style-type: none;
 	margin: 0 auto;
-	display: inline-block;
 }
 
 .postButton {
@@ -61,23 +51,18 @@ ol {
 	width: 328px;
 	height: 67px;
 	background-color: #bb2649;
-	padding: 22px 0 22px 0;
+	padding-top: 22px;
+	padding-bottom: 22px;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 20px;
 	color: #fff;
 	border-radius: 12px;
 	text-align: center;
-	margin: 24px;
-}
-
-.postButton::before {
-	content: url(/assets/postButton.svg);
-	position: relative;
+	border: none;
 }
 
 .normalButton {
-	display: block;
 	width: 328px;
 	height: 76px;
 	border-radius: 12px;
@@ -87,11 +72,9 @@ ol {
 	margin: 12px;
 }
 
-.tempImage {
-	display: inline-block;
+.image {
 	width: 76px;
 	height: 76px;
 	border-radius: 12px 0px 0px 12px;
-	background-color: blue;
-	position: absolute;
+	display: inline;
 }

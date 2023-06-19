@@ -12,7 +12,7 @@
 	<body>
 		<header>
 			<a href="main.html" aria-label="Go to main page" class="backButton">
-				<img src="/assets/backButton.svg" alt="Go to main page" />
+				<img src="./assets/backButton.svg" alt="Go to main page" />
 			</a>
 
 			<h1>HPNY 2023</h1>
@@ -24,34 +24,32 @@
 			</div>
 
 			<div class="post">
-				<span>
-					<h2>신년 계획</h2>
-					<p>2023. 01. 10</p>
-					<br />
-					<p>2023 계획 세우셨나요? 저는 아직 못 세웠어요. 작년에 계획을 과하게 세우고 많이 실패했던 기억이 있어서..</p>
-				</span>
+				<p class="postTitle">신년 계획</p>
+				<p class="date">2023. 01. 10</p>
+				<p class="postContent">2023 계획 세우셨나요? 저는 아직 못 세웠어요.<br />작년에 계획을 과하게 세우고 많이 실패했던 기억이 있어서..</p>
+				<div>
+					<button type="button" aria-label="Update your post" class="updateButton"></button>
 
-				<button type="button" aria-label="Update your post" class="updateButton">
-					<img src="#" alt="Post-button-image" />
-				</button>
-
-				<button type="button" aria-label="Delete your post" class="deleteButton">
-					<img src="#" alt="Delete-button-image" />
-				</button>
+					<button type="button" aria-label="Delete your post" class="deleteButton"></button>
+				</div>
 			</div>
 		</main>
 
-		<div>경계선</div>
+		<div class="line"></div>
 
 		<div class="comment" aria-label="Written comment">
-			<p>너무 슬퍼하지 마세요! 다들 비슷해요 ㅎㅎ 올해는 잘 할 수 있을 거에요! 화이팅!</p>
+			<p>
+				너무 슬퍼하지 마세요! 다들 비슷해요 ㅎㅎ
+				<br />
+				올해는 잘 할 수 있을 거에요! 화이팅!
+			</p>
 
-			<button type="button" aria-label="Delete your comment" class="deleteCommentButton">X</button>
+			<button type="button" aria-label="Delete your comment" class="deleteCommentButton">×</button>
 
 			<textarea value="comment" aria-label="Type here" class="commentArea"> </textarea>
 
 			<button type="button" aria-label="Submit your comment" class="submitButton">
-				<img src="/assets/submitButton.svg" alt="Send" />
+				<img src="./assets/submitButton.svg" alt="Send" />
 			</button>
 		</div>
 	</body>
